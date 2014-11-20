@@ -28,4 +28,4 @@ Aufgabe 2: Markdown
 ###Schriftstyle
 *Kursiv Haloooo*
 
-**Fett Halooo **
+**Fett Halooo**
